@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PROJETO_01", "PROJETO_01\PROJETO_01.dtproj", "{5A14A481-AF30-4534-A1E6-735CEF2104B7}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PROJETO_02", "PROJETO_02\PROJETO_02.dtproj", "{477AD695-C93F-4BF6-BBBB-4AC07475E0C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A14A481-AF30-4534-A1E6-735CEF2104B7}.Development|Default.ActiveCfg = Development
+		{5A14A481-AF30-4534-A1E6-735CEF2104B7}.Development|Default.Build.0 = Development
+		{477AD695-C93F-4BF6-BBBB-4AC07475E0C9}.Development|Default.ActiveCfg = Development
+		{477AD695-C93F-4BF6-BBBB-4AC07475E0C9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9461D3C-F0D7-4A67-8EA1-957200D13760}
+	EndGlobalSection
+EndGlobal
